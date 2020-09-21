@@ -1,5 +1,7 @@
-### Hi there 👋
 
+I am Python/Django Web Developer
+A certified Microsoft Azure Developer
+Microsoft Azure DevOps
 <!--
 **Sefakor-Ankora/Sefakor-Ankora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
