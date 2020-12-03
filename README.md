@@ -2,8 +2,8 @@
 A Python/Django Web Developer ||
 A certified Microsoft Azure Developer ||
 Microsoft Azure DevOps
-- 🔭 I’m currently working on a training project
-- 🌱 I’m currently learning Cyber Security and Microsoft Azure
+- 🔭 I’m currently working on as DevOps on a project
+- 🌱 I am on the Microsoft Azure DevOps Engineer path
 - 👯 I’m looking to collaborate on Python and Django Projects
 <!--
 **Sefakor-Ankora/Sefakor-Ankora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
