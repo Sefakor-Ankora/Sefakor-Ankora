@@ -1,5 +1,5 @@
 
-Cloud/ DevOps Engineer practising on Azure Platform
+Cloud/ DevOps Engineer practising on Azure Platform ||
 A Python/Django Web Developer ||
 A certified Microsoft Azure Developer ||
 Microsoft Azure DevOps
