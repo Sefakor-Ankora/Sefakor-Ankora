@@ -2,7 +2,7 @@
 A Python/Django Web Developer ||
 A certified Microsoft Azure Developer ||
 Microsoft Azure DevOps
-- 🔭 I’m currently working on as DevOps on a project
+- 🔭 I’m currently working  as DevOps on a projects
 - 🌱 I am on the Microsoft Azure DevOps Engineer path
 - 👯 I’m looking to collaborate on Python and Django Projects
 <!--
